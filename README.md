@@ -23,6 +23,11 @@ FixItLog is a professional-grade maintenance logging app designed to help you ke
 - **Notifications**: `flutter_local_notifications` & `timezone`
 - **File Management**: `share_plus` & `file_picker`
 
+<img width="1220" height="2618" alt="WhatsApp Image 2026-10-31 at 13 48 48" src="https://github.com/user-attachments/assets/3b3752f7-c95d-4c10-8cb4-cdcb781c3a59" />
+<img width="1220" height="2618" alt="WhatsApp Image 2026-10-31 at 13 48 48 (1)" src="https://github.com/user-attachments/assets/049f04b0-bd19-4bca-a1b9-fce6c1831de3" />
+<img width="503" height="1080" alt="WhatsApp Image 2026-10-31 at 13 48 48 (2)" src="https://github.com/user-attachments/assets/84855ccb-7e75-48f4-9898-0a87d03f2b9f" />
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
